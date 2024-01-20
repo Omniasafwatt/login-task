@@ -1,0 +1,35 @@
+body{
+    color: #17A2B8;
+    background-color: #24353F;
+}
+.box{
+    background-color: #24353F;
+
+}
+p{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    cursor: pointer;
+    border-bottom: white 1px solid;
+}
+input{
+    color:white!important;
+    background-color: transparent !important;
+}
+input::placeholder{
+    color: #fff !important;
+}
+button:hover{
+    background-color: #17A2B8 !important;
+    color: #fff !important;
+     border: #17A2B8 1px solid !important;
+
+}
+.page1{
+    display: none;
+}
